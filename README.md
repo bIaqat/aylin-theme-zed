@@ -1,7 +1,7 @@
 # Aylin
-`variants: [Aylin, Aylin Selene]`
+`variants: [Aylin, Selene]`
 
-a port of a port of [Aylin](https://github.com/AhmedAbdulrahman/aylin.vim): a modern and minimal dark theme with bright colors
+A port of [Aylin](https://github.com/AhmedAbdulrahman/aylin.vim): a modern and minimal dark theme with bright colors
 
 ## Preview
 ### Aylin
