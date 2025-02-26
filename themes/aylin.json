@@ -1,6 +1,6 @@
 {
 	"$schema": "https://zed.dev/schema/themes/v0.1.0.json",
-	"name": "blaqat",
+	"name": "aylin",
 	"author": "blaqat",
 	"themes": [
 		{
@@ -11,7 +11,6 @@
 					"#6cbeff",
 					"#c792ea",
 					"#addb67",
-					"null",
 					"#EB8378",
 					"#ECC48D",
 					"#7FDBCA",
@@ -20,7 +19,6 @@
 					"#538dbf",
 					"#8869a5",
 					"#82a256",
-					"null",
 					"#b99c76"
 				],
 				"border": "#363C4A",
@@ -459,7 +457,6 @@
 					"#6cbeff",
 					"#C792EA",
 					"#addb67",
-					"null",
 					"#f45c7f",
 					"#ecc48d",
 					"#7FDBCA",
@@ -468,7 +465,6 @@
 					"#538dbf",
 					"#8869a5",
 					"#82a256",
-					"null",
 					"#b99c76"
 				],
 				"border": "#2A3240",
